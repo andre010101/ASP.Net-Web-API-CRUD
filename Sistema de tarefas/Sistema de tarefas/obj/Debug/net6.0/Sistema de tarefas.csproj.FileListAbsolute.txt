@@ -1,0 +1,27 @@
+C:\Ambiente\Andre\ASP.Net-Web-API-CRUD\Sistema de tarefas\Sistema de tarefas\bin\Debug\net6.0\appsettings.Development.json
+C:\Ambiente\Andre\ASP.Net-Web-API-CRUD\Sistema de tarefas\Sistema de tarefas\bin\Debug\net6.0\appsettings.json
+C:\Ambiente\Andre\ASP.Net-Web-API-CRUD\Sistema de tarefas\Sistema de tarefas\bin\Debug\net6.0\Sistema de tarefas.exe
+C:\Ambiente\Andre\ASP.Net-Web-API-CRUD\Sistema de tarefas\Sistema de tarefas\bin\Debug\net6.0\Sistema de tarefas.deps.json
+C:\Ambiente\Andre\ASP.Net-Web-API-CRUD\Sistema de tarefas\Sistema de tarefas\bin\Debug\net6.0\Sistema de tarefas.runtimeconfig.json
+C:\Ambiente\Andre\ASP.Net-Web-API-CRUD\Sistema de tarefas\Sistema de tarefas\bin\Debug\net6.0\Sistema de tarefas.dll
+C:\Ambiente\Andre\ASP.Net-Web-API-CRUD\Sistema de tarefas\Sistema de tarefas\bin\Debug\net6.0\Sistema de tarefas.pdb
+C:\Ambiente\Andre\ASP.Net-Web-API-CRUD\Sistema de tarefas\Sistema de tarefas\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Ambiente\Andre\ASP.Net-Web-API-CRUD\Sistema de tarefas\Sistema de tarefas\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Ambiente\Andre\ASP.Net-Web-API-CRUD\Sistema de tarefas\Sistema de tarefas\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Ambiente\Andre\ASP.Net-Web-API-CRUD\Sistema de tarefas\Sistema de tarefas\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Ambiente\Andre\ASP.Net-Web-API-CRUD\Sistema de tarefas\Sistema de tarefas\obj\Debug\net6.0\Sistema de tarefas.csproj.AssemblyReference.cache
+C:\Ambiente\Andre\ASP.Net-Web-API-CRUD\Sistema de tarefas\Sistema de tarefas\obj\Debug\net6.0\Sistema de tarefas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ambiente\Andre\ASP.Net-Web-API-CRUD\Sistema de tarefas\Sistema de tarefas\obj\Debug\net6.0\Sistema de tarefas.AssemblyInfoInputs.cache
+C:\Ambiente\Andre\ASP.Net-Web-API-CRUD\Sistema de tarefas\Sistema de tarefas\obj\Debug\net6.0\Sistema de tarefas.AssemblyInfo.cs
+C:\Ambiente\Andre\ASP.Net-Web-API-CRUD\Sistema de tarefas\Sistema de tarefas\obj\Debug\net6.0\Sistema de tarefas.csproj.CoreCompileInputs.cache
+C:\Ambiente\Andre\ASP.Net-Web-API-CRUD\Sistema de tarefas\Sistema de tarefas\obj\Debug\net6.0\Sistema de tarefas.MvcApplicationPartsAssemblyInfo.cs
+C:\Ambiente\Andre\ASP.Net-Web-API-CRUD\Sistema de tarefas\Sistema de tarefas\obj\Debug\net6.0\Sistema de tarefas.MvcApplicationPartsAssemblyInfo.cache
+C:\Ambiente\Andre\ASP.Net-Web-API-CRUD\Sistema de tarefas\Sistema de tarefas\obj\Debug\net6.0\staticwebassets.build.json
+C:\Ambiente\Andre\ASP.Net-Web-API-CRUD\Sistema de tarefas\Sistema de tarefas\obj\Debug\net6.0\staticwebassets.development.json
+C:\Ambiente\Andre\ASP.Net-Web-API-CRUD\Sistema de tarefas\Sistema de tarefas\obj\Debug\net6.0\scopedcss\bundle\Sistema de tarefas.styles.css
+C:\Ambiente\Andre\ASP.Net-Web-API-CRUD\Sistema de tarefas\Sistema de tarefas\obj\Debug\net6.0\Sistema de tarefas.csproj.CopyComplete
+C:\Ambiente\Andre\ASP.Net-Web-API-CRUD\Sistema de tarefas\Sistema de tarefas\obj\Debug\net6.0\Sistema de tarefas.dll
+C:\Ambiente\Andre\ASP.Net-Web-API-CRUD\Sistema de tarefas\Sistema de tarefas\obj\Debug\net6.0\refint\Sistema de tarefas.dll
+C:\Ambiente\Andre\ASP.Net-Web-API-CRUD\Sistema de tarefas\Sistema de tarefas\obj\Debug\net6.0\Sistema de tarefas.pdb
+C:\Ambiente\Andre\ASP.Net-Web-API-CRUD\Sistema de tarefas\Sistema de tarefas\obj\Debug\net6.0\Sistema de tarefas.genruntimeconfig.cache
+C:\Ambiente\Andre\ASP.Net-Web-API-CRUD\Sistema de tarefas\Sistema de tarefas\obj\Debug\net6.0\ref\Sistema de tarefas.dll
